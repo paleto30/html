@@ -14,7 +14,8 @@
 </div>
 
 <div style="display: flex; justify-content: center;">
-    
+    <h1>parrafo</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos beatae nihil voluptates, quam eveniet ea, provident id perspiciatis amet eius adipisci unde distinctio? Quas voluptate labore sapiente repellat! Corrupti, architecto.</p>
 </div>
 
 </body>
