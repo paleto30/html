@@ -13,6 +13,10 @@
     <h1><?php echo "hola mundo" ?></h1>
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <h4><?php echo "ahora hay cambios" ?></h1>
+</div>
+
 
 </body>
 </html>
